@@ -202,7 +202,21 @@ export default function MeetTheTeam() {
         </div>
 
         {/* Footer */}
-        <div className="mt-16 text-center text-text-muted text-xs">
+        <div className="mt-16 text-center text-text-muted text-base font-semibold">
+            <p>
+              View on GitHub:{" "}
+              <a
+                href="https://github.com/N-tronics/OS-Project-41-50"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline font-bold text-text-secondary hover:text-accent transition-colors duration-200"
+              >
+                https://github.com/N-tronics/OS-Project-41-50
+              </a>
+            </p>
+          </div>
+
+        <div className="mt-4 text-center text-text-muted text-xs">
           <p>OS Simulator · Built collaboratively by 10 engineers</p>
         </div>
       </div>
