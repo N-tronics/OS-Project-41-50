@@ -1,16 +1,16 @@
 import ModuleCard from '../components/ModuleCard'
 
 const team = [
-  { name: 'Rohith Kalluraya K', github: 'rohithkalluraya', modules: ['CPU Scheduling', 'Virtual Memory Simulator'], color: '#06b6d4', initials: 'RK' },
-  { name: 'Ashwin S', github: 'ashwin23761', modules: ['System Calls', 'Inter-Process Communication'], color: '#14b8a6', initials: 'AS' },
-  { name: 'Rajsimha', github: 'raju-anna', modules: ['Disk Scheduling', 'I/O Buffering'], color: '#f59e0b', initials: 'RS' },
-  { name: 'Abinaya', github: 'abinaya-nitk', modules: ['Page Replacement', 'TLB Simulator'], color: '#22c55e', initials: 'AB' },
-  { name: 'Pranav Shaji', github: 'pranavshaji-17', modules: ['File Allocation', 'File System Journaling'], color: '#a78bfa', initials: 'PS' },
-  { name: 'Nischay Bharadwaj', github: 'N-tronics', modules: ['Process Synchronization', 'Semaphore Visualizer'], color: '#fb923c', initials: 'NB' },
-  { name: 'Mokshagna', github: 'Mokshagna-123', modules: ['Contiguous Memory Allocation (MFT)', 'Memory Fragmentation'], color: '#f472b6', initials: 'MO' },
-  { name: 'Raju Kumar', github: 'Raju-Kumar-9', modules: ['Deadlock Detection', "Banker's Algorithm"], color: '#ef4444', initials: 'RJ' },
-  { name: 'Shivkumar R', github: 'Shiv9936A', modules: ['MVT Memory Management', 'Segmentation Visualizer'], color: '#38bdf8', initials: 'SR' },
-  { name: 'Pranav Bansal', github: 'pranavbansal1615-source', modules: ['File System', 'Inode Structure Viewer'], color: '#4ade80', initials: 'PB' },
+  { name: 'Rohith Kalluraya K', github: 'rohithkalluraya', modules: ['CPU scheduling','TLB simulator','Inode Structure Viewer'], color: '#06b6d4', initials: 'RK' },
+  { name: 'Ashwin S', github: 'ashwin23761', modules: ['System Calls', 'Segmentation'], color: '#14b8a6', initials: 'AS' },
+  { name: 'Rajsimha', github: 'raju-anna', modules: ['Disk Scheduling', 'I/O Buffering' ,'Inter-Process Communication'], color: '#f59e0b', initials: 'RS' },
+  { name: 'Abinaya', github: 'abinaya-1106', modules: ['Page Replacement', 'TLB Simulator','Memory Fragmentation'], color: '#22c55e', initials: 'AB' },
+  { name: 'Pranav Shaji', github: 'pranavshaji-17', modules: ['File Allocation'], color: '#a78bfa', initials: 'PS' },
+  { name: 'Nischay Bharadwaj', github: 'N-tronics', modules: ['Process Synchronization', 'Bankers Algorithm','File System Journaling'], color: '#fb923c', initials: 'NB' },
+  { name: 'Mokshagna', github: 'Mokshagna-123', modules: ['Contiguous Memory Allocation (MFT)'], color: '#f472b6', initials: 'MO' },
+  { name: 'Raju Kumar', github: 'Raju-Kumar-9', modules: ['Deadlock Detection'], color: '#ef4444', initials: 'RJ' },
+  { name: 'Shivkumar R', github: 'Shiv9936A', modules: ['MVT Memory Management', 'Semaphore Visualizer'], color: '#38bdf8', initials: 'SR' },
+  { name: 'Pranav Bansal', github: 'pranavbansal1615-source', modules: ['File System'], color: '#4ade80', initials: 'PB' },
 ]
 
 const modules = [
