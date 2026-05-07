@@ -3,7 +3,10 @@ import Home from './pages/Home'
 import MeetTheTeam from './pages/MeetTheTeam'
 import CpuScheduling from './pages/CpuScheduling'
 import VirtualMemory from './pages/VirtualMemory'
-import SystemCalls from './pages/SystemCalls'
+import SystemCallOptions from './pages/SystemCallOptions'
+import ProcessManagementCalls from './pages/SystemCalls'
+import MemoryManagementCalls from './pages/MemoryManagementCalls'
+import NetworkCalls from './pages/NetworkCalls'
 import Ipc from './pages/Ipc'
 import DiskScheduling from './pages/DiskScheduling'
 import IoBuffering from './pages/IoBuffering'
@@ -28,7 +31,10 @@ export default function App() {
       <Route path="/" element={<Home />} />
       <Route path="/cpu-scheduling" element={<CpuScheduling />} />
       <Route path="/virtual-memory" element={<VirtualMemory />} />
-      <Route path="/system-calls" element={<SystemCalls />} />
+      <Route path="/system-calls" element={<SystemCallOptions />} />
+      <Route path="/system-calls/process-management" element={<ProcessManagementCalls />} />
+      <Route path="/system-calls/memory-management" element={<MemoryManagementCalls />} />
+      <Route path="/system-calls/network-call" element={<NetworkCalls />} />
       <Route path="/ipc" element={<Ipc />} />
       <Route path="/disk-scheduling" element={<DiskScheduling />} />
       <Route path="/io-buffering" element={<IoBuffering />} />
