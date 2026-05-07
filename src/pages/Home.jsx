@@ -6,7 +6,7 @@ const team = [
   { name: 'Rajsimha', github: 'raju-anna', modules: ['Disk Scheduling', 'I/O Buffering' ,'Inter-Process Communication'], color: '#f59e0b', initials: 'RS' },
   { name: 'Abinaya', github: 'abinaya-1106', modules: ['Page Replacement', 'TLB Simulator','Memory Fragmentation'], color: '#22c55e', initials: 'AB' },
   { name: 'Pranav Shaji', github: 'pranavshaji-17', modules: ['File Allocation'], color: '#a78bfa', initials: 'PS' },
-  { name: 'Nischay Bharadwaj', github: 'N-tronics', modules: ['Process Synchronization', 'Bankers Algorithm','File System Journaling'], color: '#fb923c', initials: 'NB' },
+  { name: 'Nischay Bharadwaj', github: 'N-tronics', modules: ['Process Synchronization', 'File System Journaling'], color: '#fb923c', initials: 'NB' },
   { name: 'Mokshagna', github: 'Mokshagna-123', modules: ['Contiguous Memory Allocation (MFT)'], color: '#f472b6', initials: 'MO' },
   { name: 'Raju Kumar', github: 'Raju-Kumar-9', modules: ['Deadlock Detection', "Banker's Algorithm"], color: '#ef4444', initials: 'RJ' },
   { name: 'Shivkumar R', github: 'Shiv9936A', modules: ['MVT Memory Management', 'Semaphore Visualizer'], color: '#38bdf8', initials: 'SR' },

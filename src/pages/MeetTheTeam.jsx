@@ -40,7 +40,7 @@ const team = [
   {
     name: 'Nischay Bharadwaj',
     github: 'N-tronics',
-    modules: ['Process Synchronization', 'Bankers Algorithm','File System Journaling'],
+    modules: ['Process Synchronization', 'File System Journaling'],
     color: '#fb923c',
     initials: 'NB',
   },
