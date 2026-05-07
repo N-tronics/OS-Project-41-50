@@ -54,7 +54,7 @@ const team = [
   {
     name: 'Raju Kumar',
     github: 'Raju-Kumar-9',
-    modules: ['Deadlock Detection'],
+    modules: ['Deadlock Detection', "Banker's Algorithm"],
     color: '#ef4444',
     initials: 'RJ',
   },

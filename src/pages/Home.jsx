@@ -8,7 +8,7 @@ const team = [
   { name: 'Pranav Shaji', github: 'pranavshaji-17', modules: ['File Allocation'], color: '#a78bfa', initials: 'PS' },
   { name: 'Nischay Bharadwaj', github: 'N-tronics', modules: ['Process Synchronization', 'Bankers Algorithm','File System Journaling'], color: '#fb923c', initials: 'NB' },
   { name: 'Mokshagna', github: 'Mokshagna-123', modules: ['Contiguous Memory Allocation (MFT)'], color: '#f472b6', initials: 'MO' },
-  { name: 'Raju Kumar', github: 'Raju-Kumar-9', modules: ['Deadlock Detection'], color: '#ef4444', initials: 'RJ' },
+  { name: 'Raju Kumar', github: 'Raju-Kumar-9', modules: ['Deadlock Detection', "Banker's Algorithm"], color: '#ef4444', initials: 'RJ' },
   { name: 'Shivkumar R', github: 'Shiv9936A', modules: ['MVT Memory Management', 'Semaphore Visualizer'], color: '#38bdf8', initials: 'SR' },
   { name: 'Pranav Bansal', github: 'pranavbansal1615-source', modules: ['File System'], color: '#4ade80', initials: 'PB' },
 ]
